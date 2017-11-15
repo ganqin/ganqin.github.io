@@ -1,7 +1,7 @@
 # Basic
 title: McHuang
-subtitle: A blog for me
-welcome_message: <a href="https://www.google.com" target="_blank">Google</a>
+subtitle: A blog for the Graphics world
+welcome_message: <a href="https://www.apple.com/shop/buy-iphone/iphone-x" target="_blank">Buy an iPhoneX</a>
 description: Just Started
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: ganqin
     # duoshuo:
 
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo:
+    github: ganqin
+    twitter:
+    gplus:
+    mail: mike.ganqin@gmail.com
 
 # Google Analytics
 ga:
